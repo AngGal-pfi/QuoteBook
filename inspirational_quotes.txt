@@ -1,4 +1,4 @@
-inspirational quote 1
+inspirational quote 1 ->100
 
 inspirational quote 2
 
