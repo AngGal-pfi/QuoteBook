@@ -4,3 +4,5 @@ humor joke 3 -> 3000
 humor joke 4 --> now is 400
 humore joke intermediate ---
 humor joke 5!!
+
+adding new joke 6
